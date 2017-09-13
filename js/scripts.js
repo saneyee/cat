@@ -9,6 +9,12 @@ $(document).ready(function() {
 
 
 });
+ $("button#original").click(function() {
+   $("body").removeClass();
+
+
+ });
+
 
 
 });
